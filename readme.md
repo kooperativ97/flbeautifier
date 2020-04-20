@@ -5,7 +5,7 @@ This repo consists of 3 files
  * create.cmd
  * thumbnail.cmd
  * thumbnailer.py
- 
+
 You need python 2 or 3 installed. 
 You only execute the cmd files. Do not use the pyhton file. 
 
@@ -15,7 +15,7 @@ You only execute the cmd files. Do not use the pyhton file.
 Mine: `C:\Users\....\Documents\Image-Line\FL Studio\Presets\Plugin database\Generators`
 
 2. Run the create.cmd file. It will create a .nfo and .png for every plugin where these files do not exist. 
-   These files are hidden by default, so make sure you make hidden files visible! 
+   The nfo is hidden per default, the png files are hidden after thumbnailing.
 
 3. Create Screenshots of your Plugins and save them as the .png file created by create.cmd
 
